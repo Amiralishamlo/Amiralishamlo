@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on : **.NET Projects**
 
-- 💬 Ask me about **C# , ASP.Net Core**
+- 💬 Ask me about **C# , ASP.Net Core , React ** 
 
 - ⚡ Fun fact **I Think I am funny**
 
