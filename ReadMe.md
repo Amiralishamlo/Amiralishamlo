@@ -1,4 +1,4 @@
-![Amiralishamlo](protfolio.jpg)
+![Amiralishamlo](baner.jpg)
 
 #
 
@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://react.dev" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="48" height="48"/>
+<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="48" height="48"/>
 </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="48" height="48"/> 
